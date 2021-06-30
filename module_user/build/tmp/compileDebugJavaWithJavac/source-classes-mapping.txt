@@ -1,0 +1,12 @@
+org/devio/as/hi/module_user/BuildConfig.java
+ org.devio.as.hi.module_user.BuildConfig
+com/alibaba/android/arouter/routes/ARouter$$Providers$$module_user.java
+ com.alibaba.android.arouter.routes.ARouter$$Providers$$module_user
+com/alibaba/android/arouter/routes/ARouter$$Group$$user.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$user
+org/devio/as/hi/module_user/ProfileActivity.java
+ org.devio.as.hi.module_user.ProfileActivity
+org/devio/as/hi/module_user/ProfileFragment.java
+ org.devio.as.hi.module_user.ProfileFragment
+com/alibaba/android/arouter/routes/ARouter$$Root$$module_user.java
+ com.alibaba.android.arouter.routes.ARouter$$Root$$module_user

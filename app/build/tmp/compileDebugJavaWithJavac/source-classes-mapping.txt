@@ -1,0 +1,37 @@
+com/alibaba/android/arouter/routes/ARouter$$Interceptors$$app.java
+ com.alibaba.android.arouter.routes.ARouter$$Interceptors$$app
+org/devio/as/hi/hi_arouter/LoginInterceptor.java
+ org.devio.as.hi.hi_arouter.LoginInterceptor
+org/devio/as/hi/hi_arouter/PretreatmentServiceImpl.java
+ org.devio.as.hi.hi_arouter.PretreatmentServiceImpl
+org/devio/as/hi/hi_arouter/ArouterApplication.java
+ org.devio.as.hi.hi_arouter.ArouterApplication
+org/devio/as/hi/hi_arouter/SchemeFilterActivity.java
+ org.devio.as.hi.hi_arouter.SchemeFilterActivity
+com/alibaba/android/arouter/routes/ARouter$$Root$$app.java
+ com.alibaba.android.arouter.routes.ARouter$$Root$$app
+org/devio/as/hi/hi_arouter/ILoginService.java
+ org.devio.as.hi.hi_arouter.ILoginService
+org/devio/as/hi/hi_arouter/PathReplaceServiceImpl.java
+ org.devio.as.hi.hi_arouter.PathReplaceServiceImpl
+com/alibaba/android/arouter/routes/ARouter$$Providers$$app.java
+ com.alibaba.android.arouter.routes.ARouter$$Providers$$app
+com/alibaba/android/arouter/routes/ARouter$$Group$$fragment.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$fragment
+ com.alibaba.android.arouter.routes.ARouter$$Group$$fragment$1
+org/devio/as/hi/hi_arouter/FirstFragment.java
+ org.devio.as.hi.hi_arouter.FirstFragment
+org/devio/as/hi/hi_arouter/SecondActivity.java
+ org.devio.as.hi.hi_arouter.SecondActivity
+org/devio/as/hi/hi_arouter/LoginServiceImpl.java
+ org.devio.as.hi.hi_arouter.LoginServiceImpl
+com/alibaba/android/arouter/routes/ARouter$$Group$$service.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$service
+org/devio/as/hi/hi_arouter/FirstFragment$$ARouter$$Autowired.java
+ org.devio.as.hi.hi_arouter.FirstFragment$$ARouter$$Autowired
+com/alibaba/android/arouter/routes/ARouter$$Group$$pathReplace.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$pathReplace
+com/alibaba/android/arouter/routes/ARouter$$Group$$activity.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$activity
+org/devio/as/hi/hi_arouter/BuildConfig.java
+ org.devio.as.hi.hi_arouter.BuildConfig

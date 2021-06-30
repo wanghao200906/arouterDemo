@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [:module_user] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_user/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/36c3256795af56f020827b4fb409911f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.alibaba:arouter-api:1.5.2] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/ef7453ee52bfd7cdcfb58a8c849239b4/jetified-arouter-api-1.5.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/ec24c11b423f04318a0861dcce1850a7/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d1ebf432210a6d718d2e4388a13b983a/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/31e0df716ed9f707e072e513677595d2/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/255f6ba62b2496f8b2ff6323bfd0b545/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/7e72eecb667768f2bfba5d8637031cae/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b69b913afa310b7600fef510e4f54ec7/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d56fd6deebac2f4d4c87be110971eafb/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/c778186a398da884761152f9cda07a48/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e602b6b0af74ec3a9417d9b1cebe504c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/4ff0d3d32f0ce28311248702b453468a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/23e098c958b5f6ab385a4c826778d213/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/c507e86b6b774f25c507559f77b664ab/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/753a24e48cf724f99ce9abffe8d01ff3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a145cd493312860112d8bf45fef30697/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a91b6925af3fc22b81f1cc0196388071/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a567ae69e0df07f0007be64f97ad2e40/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e6f6bd9f77f02280becb9aa407810175/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b2b128e593a101adc374c47fe5b98618/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/89a018651d92c9b102d7c23724fc026f/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/26cf210183cc572067df4a0a37861d8a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/17a243c2a02c4f7ed15f5abd5df7d71d/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/1206c2f3f63b821a483969182cabf194/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/9188efbab8e1745cb2990d421c544d21/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e913560bdd452922fd235bc6a00bba56/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b3874c201f17309e1194154f45bd38b3/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a6c39a457c4740a6a951fb155c1bcffb/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/361d62643afb6b5f74dc636f735ef5cd/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d61fee8a7b26ec768c9596e47c78bd67/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/9ffb5092661747856966aa4db253b289/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/539d35cc3d8e98fb80d6843bf8b62000/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a0381977797c7dcbaa44abdbd4e4c1cd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/870388e0bd7b09628db77a510d39a446/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:6:5-37:19
+MERGED from [:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:19
+MERGED from [:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d1ebf432210a6d718d2e4388a13b983a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d1ebf432210a6d718d2e4388a13b983a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/17a243c2a02c4f7ed15f5abd5df7d71d/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/17a243c2a02c4f7ed15f5abd5df7d71d/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/1206c2f3f63b821a483969182cabf194/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/1206c2f3f63b821a483969182cabf194/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/17a243c2a02c4f7ed15f5abd5df7d71d/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:7:9-43
+activity#org.devio.as.hi.hi_arouter.MainActivity
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:18:27-74
+activity#org.devio.as.hi.hi_arouter.SecondActivity
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:22:19-49
+activity#org.devio.as.hi.hi_arouter.SchemeFilterActivity
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:24:9-36:20
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:24:19-55
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.aliyun.com+data:scheme:arouter
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:26:13-35:29
+data
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:27:17-29:47
+	android:host
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:28:21-48
+	android:scheme
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:29:21-45
+action#android.intent.action.VIEW
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:33:17-75
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:33:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:34:27-75
+uses-sdk
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+MERGED from [:module_user] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_user/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:module_user] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_user/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/36c3256795af56f020827b4fb409911f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/36c3256795af56f020827b4fb409911f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.alibaba:arouter-api:1.5.2] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/ef7453ee52bfd7cdcfb58a8c849239b4/jetified-arouter-api-1.5.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.alibaba:arouter-api:1.5.2] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/ef7453ee52bfd7cdcfb58a8c849239b4/jetified-arouter-api-1.5.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/ec24c11b423f04318a0861dcce1850a7/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/ec24c11b423f04318a0861dcce1850a7/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d1ebf432210a6d718d2e4388a13b983a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d1ebf432210a6d718d2e4388a13b983a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/31e0df716ed9f707e072e513677595d2/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/31e0df716ed9f707e072e513677595d2/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/255f6ba62b2496f8b2ff6323bfd0b545/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/255f6ba62b2496f8b2ff6323bfd0b545/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/7e72eecb667768f2bfba5d8637031cae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/7e72eecb667768f2bfba5d8637031cae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b69b913afa310b7600fef510e4f54ec7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b69b913afa310b7600fef510e4f54ec7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d56fd6deebac2f4d4c87be110971eafb/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d56fd6deebac2f4d4c87be110971eafb/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/c778186a398da884761152f9cda07a48/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/c778186a398da884761152f9cda07a48/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e602b6b0af74ec3a9417d9b1cebe504c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e602b6b0af74ec3a9417d9b1cebe504c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/4ff0d3d32f0ce28311248702b453468a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/4ff0d3d32f0ce28311248702b453468a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/23e098c958b5f6ab385a4c826778d213/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/23e098c958b5f6ab385a4c826778d213/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/c507e86b6b774f25c507559f77b664ab/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/c507e86b6b774f25c507559f77b664ab/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/753a24e48cf724f99ce9abffe8d01ff3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/753a24e48cf724f99ce9abffe8d01ff3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a145cd493312860112d8bf45fef30697/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a145cd493312860112d8bf45fef30697/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a91b6925af3fc22b81f1cc0196388071/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a91b6925af3fc22b81f1cc0196388071/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a567ae69e0df07f0007be64f97ad2e40/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a567ae69e0df07f0007be64f97ad2e40/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e6f6bd9f77f02280becb9aa407810175/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e6f6bd9f77f02280becb9aa407810175/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b2b128e593a101adc374c47fe5b98618/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b2b128e593a101adc374c47fe5b98618/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/89a018651d92c9b102d7c23724fc026f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/89a018651d92c9b102d7c23724fc026f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/26cf210183cc572067df4a0a37861d8a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/26cf210183cc572067df4a0a37861d8a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/17a243c2a02c4f7ed15f5abd5df7d71d/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/17a243c2a02c4f7ed15f5abd5df7d71d/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/1206c2f3f63b821a483969182cabf194/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/1206c2f3f63b821a483969182cabf194/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/9188efbab8e1745cb2990d421c544d21/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/9188efbab8e1745cb2990d421c544d21/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e913560bdd452922fd235bc6a00bba56/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/e913560bdd452922fd235bc6a00bba56/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b3874c201f17309e1194154f45bd38b3/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/b3874c201f17309e1194154f45bd38b3/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a6c39a457c4740a6a951fb155c1bcffb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a6c39a457c4740a6a951fb155c1bcffb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/361d62643afb6b5f74dc636f735ef5cd/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/361d62643afb6b5f74dc636f735ef5cd/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d61fee8a7b26ec768c9596e47c78bd67/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/d61fee8a7b26ec768c9596e47c78bd67/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/9ffb5092661747856966aa4db253b289/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/9ffb5092661747856966aa4db253b289/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/539d35cc3d8e98fb80d6843bf8b62000/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/539d35cc3d8e98fb80d6843bf8b62000/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a0381977797c7dcbaa44abdbd4e4c1cd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/a0381977797c7dcbaa44abdbd4e4c1cd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/870388e0bd7b09628db77a510d39a446/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Sven.Wong/.gradle/caches/transforms-2/files-2.1/870388e0bd7b09628db77a510d39a446/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml
+activity#org.devio.as.hi.module_trade.TradeDetailActivity
+ADDED from [:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-85
+	android:name
+		ADDED from [:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:19-82
