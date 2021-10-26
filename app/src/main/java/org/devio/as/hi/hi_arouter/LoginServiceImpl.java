@@ -4,6 +4,8 @@ import android.content.Context;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
 
+import org.devio.as.hi.module_trade.ILoginService;
+
 @Route(path = "/service/login")
 public class LoginServiceImpl implements ILoginService {
     @Override

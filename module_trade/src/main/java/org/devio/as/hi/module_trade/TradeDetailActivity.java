@@ -26,5 +26,10 @@ public class TradeDetailActivity extends AppCompatActivity {
         super.onCreate(bundle);
 
         ARouter.getInstance().inject(this);
+
+        ILoginService log = (ILoginService) ARouter.getInstance().build("/service/login")
+                .navigation();
+        log.login();
+
     }
 }

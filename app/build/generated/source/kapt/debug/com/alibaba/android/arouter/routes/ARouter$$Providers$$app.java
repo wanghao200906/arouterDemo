@@ -14,7 +14,7 @@ import org.devio.as.hi.hi_arouter.PathReplaceServiceImpl;
 public class ARouter$$Providers$$app implements IProviderGroup {
   @Override
   public void loadInto(Map<String, RouteMeta> providers) {
-    providers.put("org.devio.as.hi.hi_arouter.ILoginService", RouteMeta.build(RouteType.PROVIDER, LoginServiceImpl.class, "/service/login", "service", null, -1, -2147483648));
+    providers.put("org.devio.as.hi.module_trade.ILoginService", RouteMeta.build(RouteType.PROVIDER, LoginServiceImpl.class, "/service/login", "service", null, -1, -2147483648));
     providers.put("com.alibaba.android.arouter.facade.service.PathReplaceService", RouteMeta.build(RouteType.PROVIDER, PathReplaceServiceImpl.class, "/pathReplace/service", "pathReplace", null, -1, -2147483648));
   }
 }

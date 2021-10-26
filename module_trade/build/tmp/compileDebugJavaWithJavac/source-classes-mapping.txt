@@ -1,15 +1,17 @@
 com/alibaba/android/arouter/routes/ARouter$$Providers$$module_trade.java
  com.alibaba.android.arouter.routes.ARouter$$Providers$$module_trade
-org/devio/as/hi/module_trade/TradeDetailActivity.java
- org.devio.as.hi.module_trade.TradeDetailActivity
-com/alibaba/android/arouter/routes/ARouter$$Root$$module_trade.java
- com.alibaba.android.arouter.routes.ARouter$$Root$$module_trade
-org/devio/as/hi/module_trade/TradeDetailActivity$$ARouter$$Autowired.java
- org.devio.as.hi.module_trade.TradeDetailActivity$$ARouter$$Autowired
 org/devio/as/hi/module_trade/DetailFragment.java
  org.devio.as.hi.module_trade.DetailFragment
+com/alibaba/android/arouter/routes/ARouter$$Root$$module_trade.java
+ com.alibaba.android.arouter.routes.ARouter$$Root$$module_trade
 org/devio/as/hi/module_trade/BuildConfig.java
  org.devio.as.hi.module_trade.BuildConfig
+org/devio/as/hi/module_trade/TradeDetailActivity.java
+ org.devio.as.hi.module_trade.TradeDetailActivity
+org/devio/as/hi/module_trade/ILoginService.java
+ org.devio.as.hi.module_trade.ILoginService
+org/devio/as/hi/module_trade/TradeDetailActivity$$ARouter$$Autowired.java
+ org.devio.as.hi.module_trade.TradeDetailActivity$$ARouter$$Autowired
 com/alibaba/android/arouter/routes/ARouter$$Group$$trade.java
  com.alibaba.android.arouter.routes.ARouter$$Group$$trade
  com.alibaba.android.arouter.routes.ARouter$$Group$$trade$1

@@ -10,12 +10,12 @@ org/devio/as/hi/hi_arouter/SchemeFilterActivity.java
  org.devio.as.hi.hi_arouter.SchemeFilterActivity
 com/alibaba/android/arouter/routes/ARouter$$Root$$app.java
  com.alibaba.android.arouter.routes.ARouter$$Root$$app
-org/devio/as/hi/hi_arouter/ILoginService.java
- org.devio.as.hi.hi_arouter.ILoginService
+org/devio/as/hi/hi_arouter/BuildConfig.java
+ org.devio.as.hi.hi_arouter.BuildConfig
 org/devio/as/hi/hi_arouter/PathReplaceServiceImpl.java
  org.devio.as.hi.hi_arouter.PathReplaceServiceImpl
-com/alibaba/android/arouter/routes/ARouter$$Providers$$app.java
- com.alibaba.android.arouter.routes.ARouter$$Providers$$app
+org/devio/as/hi/hi_arouter/FirstFragment$$ARouter$$Autowired.java
+ org.devio.as.hi.hi_arouter.FirstFragment$$ARouter$$Autowired
 com/alibaba/android/arouter/routes/ARouter$$Group$$fragment.java
  com.alibaba.android.arouter.routes.ARouter$$Group$$fragment
  com.alibaba.android.arouter.routes.ARouter$$Group$$fragment$1
@@ -23,15 +23,13 @@ org/devio/as/hi/hi_arouter/FirstFragment.java
  org.devio.as.hi.hi_arouter.FirstFragment
 org/devio/as/hi/hi_arouter/SecondActivity.java
  org.devio.as.hi.hi_arouter.SecondActivity
+com/alibaba/android/arouter/routes/ARouter$$Group$$activity.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$activity
+com/alibaba/android/arouter/routes/ARouter$$Group$$pathReplace.java
+ com.alibaba.android.arouter.routes.ARouter$$Group$$pathReplace
 org/devio/as/hi/hi_arouter/LoginServiceImpl.java
  org.devio.as.hi.hi_arouter.LoginServiceImpl
 com/alibaba/android/arouter/routes/ARouter$$Group$$service.java
  com.alibaba.android.arouter.routes.ARouter$$Group$$service
-org/devio/as/hi/hi_arouter/FirstFragment$$ARouter$$Autowired.java
- org.devio.as.hi.hi_arouter.FirstFragment$$ARouter$$Autowired
-com/alibaba/android/arouter/routes/ARouter$$Group$$pathReplace.java
- com.alibaba.android.arouter.routes.ARouter$$Group$$pathReplace
-com/alibaba/android/arouter/routes/ARouter$$Group$$activity.java
- com.alibaba.android.arouter.routes.ARouter$$Group$$activity
-org/devio/as/hi/hi_arouter/BuildConfig.java
- org.devio.as.hi.hi_arouter.BuildConfig
+com/alibaba/android/arouter/routes/ARouter$$Providers$$app.java
+ com.alibaba.android.arouter.routes.ARouter$$Providers$$app

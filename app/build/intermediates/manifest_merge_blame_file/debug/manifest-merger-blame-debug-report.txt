@@ -27,55 +27,54 @@
 18-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:11:9-54
 19        android:supportsRtl="true"
 19-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:12:9-35
-20        android:testOnly="true"
-21        android:theme="@style/AppTheme" >
-21-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:13:9-40
-22        <activity android:name="org.devio.as.hi.hi_arouter.MainActivity" >
-22-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:14:9-20:20
-22-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:14:19-47
-23            <intent-filter>
-23-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:15:13-19:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:16:17-69
-24-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:16:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:18:17-77
-26-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:18:27-74
-27            </intent-filter>
-28        </activity>
-29        <activity android:name="org.devio.as.hi.hi_arouter.SecondActivity" />
-29-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:22:9-61
-29-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:22:19-49
-30        <activity android:name="org.devio.as.hi.hi_arouter.SchemeFilterActivity" >
-30-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:24:9-36:20
-30-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:24:19-55
-31
-32            <!-- Scheme -->
-33            <intent-filter>
-33-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:26:13-35:29
-34                <data
-34-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:27:17-29:47
-35                    android:host="m.aliyun.com"
-35-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:28:21-48
-36                    android:scheme="arouter" />
-36-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:29:21-45
-37
-38                <action android:name="android.intent.action.VIEW" />
-38-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:31:17-68
-38-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:31:25-66
-39
-40                <category android:name="android.intent.category.DEFAULT" />
-40-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:33:17-75
-40-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:33:27-73
-41                <category android:name="android.intent.category.BROWSABLE" />
-41-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:34:17-77
-41-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:34:27-75
-42            </intent-filter>
-43        </activity>
-44        <activity android:name="org.devio.as.hi.module_trade.TradeDetailActivity" />
-44-->[:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-85
-44-->[:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:19-82
-45    </application>
-46
-47</manifest>
+20        android:theme="@style/AppTheme" >
+20-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:13:9-40
+21        <activity android:name="org.devio.as.hi.hi_arouter.MainActivity" >
+21-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:14:9-20:20
+21-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:14:19-47
+22            <intent-filter>
+22-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:15:13-19:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:16:17-69
+23-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:16:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:18:17-77
+25-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:18:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="org.devio.as.hi.hi_arouter.SecondActivity" />
+28-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:22:9-61
+28-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:22:19-49
+29        <activity android:name="org.devio.as.hi.hi_arouter.SchemeFilterActivity" >
+29-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:24:9-36:20
+29-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:24:19-55
+30
+31            <!-- Scheme -->
+32            <intent-filter>
+32-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:26:13-35:29
+33                <data
+33-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:27:17-29:47
+34                    android:host="m.aliyun.com"
+34-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:28:21-48
+35                    android:scheme="arouter" />
+35-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:29:21-45
+36
+37                <action android:name="android.intent.action.VIEW" />
+37-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:31:17-68
+37-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:31:25-66
+38
+39                <category android:name="android.intent.category.DEFAULT" />
+39-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:33:17-75
+39-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:33:27-73
+40                <category android:name="android.intent.category.BROWSABLE" />
+40-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:34:17-77
+40-->/Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/app/src/main/AndroidManifest.xml:34:27-75
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="org.devio.as.hi.module_trade.TradeDetailActivity" />
+43-->[:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-85
+43-->[:module_trade] /Users/Sven.Wong/Desktop/baidupan/慕课网/移动架构/项目Git/as-navigation/hi_arouter/module_trade/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:19-82
+44    </application>
+45
+46</manifest>
